@@ -1,0 +1,11 @@
+git clone https://github.com/maxwu1998/computational-social-science-projects.git
+cd css
+cd git
+cd computational-social-science-projects
+mkdir project-1
+cd project-1
+touch commands.txt
+start commands.txt
+git add *
+git commit -m "created projects directory, project 1 folder, and commands text file"
+git push
