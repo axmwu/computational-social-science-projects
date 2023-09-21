@@ -2,6 +2,7 @@ git clone https://github.com/maxwu1998/computational-social-science-projects.git
 cd css
 cd git
 cd computational-social-science-projects
+# Note: I changed the name of this repository after the fact to make it easier to navigate compared to the Computational-Social-Sciences-Training-Program repo
 mkdir project-1
 cd project-1
 touch commands.txt
